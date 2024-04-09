@@ -1,4 +1,4 @@
-# Rudraksh: Plant Disease Detection
+# GreenFarmMinds: Plant Disease Detection
 
 <table>
 <tr>
@@ -6,7 +6,7 @@
 <img src="web/src/assets/logo.png" alt="Your Logo" width="200%" height="200%">
 </td>
 <td>
-<b><i>Rudraksh is a powerful web-based platform that allows farmers to detect plant diseases by simply uploading an image. Using advanced machine learning models and a user-friendly interface, Rudraksh aims to provide timely and accurate disease identification, accompanied by the progression rates of potential diseases.</b>
+<b><i>GreenFarmMinds is a powerful web-based platform that allows farmers to detect plant diseases by simply uploading an image. Using advanced machine learning models and a user-friendly interface, Rudraksh aims to provide timely and accurate disease identification, accompanied by the progression rates of potential diseases.</b>
 </td>
 </tr>
 </table>
@@ -22,7 +22,7 @@
   Utilizing API from cutting-edge machine learning model for accurate and rapid disease identification.
 
 ## How To Use
-### 1. Visit the Rudraksh platform.  
+### 1. Visit our platform.  
 Start by capturing a clear image of a plant leaf that might be showing signs of disease. Ensure that the image is sharp and well-lit. Easily upload the image to the Rudraksh platform using our user-friendly interface.
 ### 2. Upload an image of your plant.  
 Rudraksh's advanced AI technology kicks into action. The uploaded image is processed by a sophisticated machine learning model to analyze the visual characteristics of the leaf in the image, comparing them to an extensive database.
@@ -57,7 +57,7 @@ Rudraksh provides you with comprehensive insights. It not only identifies the sp
   |npm        |[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)|
 
 
-## Setup Rudraksh Locally
+## Setup GreenMindfarms Locally
 Once you have followed the steps mentioned in [Contribution](https://github.com/Deveesh-Shetty/rudraksh/blob/master/Contributing.md) to fork and clone the repository, do the following to setup rudraksh locally on your PC.
 ```bash
 cd web
@@ -78,12 +78,6 @@ npm run dev
 ```
 That's it you are good to go! Looking forward to your contributions.
 
-## Contributors
-<a href="https://github.com/Deveesh-Shetty/rudraksh/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Deveesh-Shetty/rudraksh" />
-</a>
 
 <br />
 <br />
-
-**Thank you for using Rudraksh!**`
